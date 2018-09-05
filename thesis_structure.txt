@@ -1,0 +1,30 @@
+Abstract
+
+Introduction
+
+Related Work
+
+Background (-> Appendix)
+	- Bayes Net, TSCBN
+	- Probability Theory
+	- K shortest Paths
+	- Regex (Language, Syntax)
+	- CTL
+	- Model Checking
+	- SMARD
+
+Method
+	- Most probable paths
+	- Regex/CTL translation
+	- Merging
+	- Model Checking
+	- Metrics (how good is a Spec)
+	- SMARD
+	- "Implemenation Details"
+
+Interface (??)
+
+Conclusion & Future Work
+
+
+Appendix
