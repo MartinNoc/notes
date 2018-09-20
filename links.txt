@@ -12,3 +12,6 @@ https://github.com/albertocasagrande/pyModelChecking (pyModelChecking @ Github)
 https://spot.lrde.epita.fr/index.html (Spot)
 https://moves-rwth.github.io/stormpy/ (Stormpy = Storm Python Implementation)
 https://github.com/formalmethods/intrepyd (Intrepyd @ Github)
+
+
+https://www.absolventa.de/karriereguide/gespraech/tipps-telefoninterview
