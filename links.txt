@@ -14,4 +14,6 @@ https://moves-rwth.github.io/stormpy/ (Stormpy = Storm Python Implementation)
 https://github.com/formalmethods/intrepyd (Intrepyd @ Github)
 
 
-https://www.absolventa.de/karriereguide/gespraech/tipps-telefoninterview
+Specification Miner:
+https://github.com/ModelInference
+https://bitbucket.org/bestchai/texada
