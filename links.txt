@@ -17,3 +17,8 @@ https://github.com/formalmethods/intrepyd (Intrepyd @ Github)
 Specification Miner:
 https://github.com/ModelInference
 https://bitbucket.org/bestchai/texada
+
+https://theghosthucodes.github.io/building-gtest-1-7-on-ubuntu/
+https://github.com/google/googletest/releases/tag/release-1.7.0
+
+https://www.eriksmistad.no/getting-started-with-google-test-on-ubuntu/
